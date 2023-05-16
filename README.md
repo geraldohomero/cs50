@@ -1,1 +1,1 @@
-# CS50 notes and Projects
+# CS50 notes and codes
